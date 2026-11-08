@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "cn.ubuntu.com",
+  "versions": [
+    {
+      "commit": "fa84caa790d26f60c3b8da739611ccd2f473bc00",
+      "tag": "",
+      "parsed_at": "2026-11-08T04:30:02.535431+00:00"
+    }
+  ]
+}

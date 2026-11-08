@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/cn.ubuntu.com/commit/fa84caa790d26f60c3b8da739611ccd2f473bc00",
       "git:hexsha": "fa84caa790d26f60c3b8da739611ccd2f473bc00",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
